@@ -4,6 +4,9 @@
 Olá, pessoas! Tudo bem? Me chamo José Getúlio, sou estudante de Engenharia de Software e estagiário em desenvolvimento mobile, mais especificamente voltado para o Android nativo. 
 
 ## Sobre o Projeto
+
+O Projeto, como o nome já diz, será uma Pokedex. Um pequeno aparelho da franquia Pokemon que armazena dados sobre os monstrinhos. Será desenvolvido para Android Nativo com Kotlin!
+
 Meu objetivo principal sobre o projeto é: 
 
 - Colocar meus estudos em prática 
